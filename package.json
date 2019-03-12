@@ -1,0 +1,23 @@
+{
+  "name": "crawer_-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^1.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ducxomme/crawer_-puppeteer.git"
+  },
+  "author": "DucNguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ducxomme/crawer_-puppeteer/issues"
+  },
+  "homepage": "https://github.com/ducxomme/crawer_-puppeteer#readme"
+}
